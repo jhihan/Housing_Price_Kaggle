@@ -7,4 +7,5 @@ https://colab.research.google.com
 If you couldn't open the .ipynb file, please paste the link of the file to here: https://nbviewer.jupyter.org/
 # Techniques: 
 Feature Engineering => carefully transform some categorical variable to discretes numerical variables
+
 Model: Ensemble learning: Random Forest + XGBRegressor
